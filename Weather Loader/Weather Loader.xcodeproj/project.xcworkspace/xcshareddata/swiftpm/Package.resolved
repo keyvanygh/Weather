@@ -1,0 +1,15 @@
+{
+  "originHash" : "978e65aaf9922d11bc107b8b69180b916440b2c6b7a0b7fd38bc90ddbcee23cf",
+  "pins" : [
+    {
+      "identity" : "httpclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/keyvanygh/HttpClient",
+      "state" : {
+        "revision" : "65198fd645e8b321fd9ac09db8ba509d3cd48219",
+        "version" : "1.0.10"
+      }
+    }
+  ],
+  "version" : 3
+}
